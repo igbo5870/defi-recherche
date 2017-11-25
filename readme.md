@@ -1,26 +1,39 @@
 ﻿## **Réponse défi recherche** ##
 
  - Par qui, quand, pourquoi et où a été inventé Internet ?
-	 - **L'origine d'internet** vient du **ARPANET** mise en place en **1969** et créer par **Lawrence G.Roberts** au **États-Unis**. Il fut créer pour facilité la communication entre les chercheurs des différentes université au États-Unis . 
+	 - **L'origine d'internet** vient du **ARPANET** mise en place en **1969** et créer par **l'agence DARPA** au **États-Unis**. Réseau prédécesseur de Internet actuel, il fut créer pour facilité la communication entre les chercheurs des différentes université au États-Unis . C'est en **1990** lorsque la popularisation des fondements de l’**Internet moderne** passa par l’apparition du **World Wide Web** que le réseaux **ARPANET fut fermé**.
+	 *source: http://histoire-internet.vincaria.net/*
 	 
  - Quelle est la différence entre le web et Internet ?
 	 - **Internet** est un réseau informatique qui relie des entre eux à l'échelle mondiale. 
 	 - **Le Web** est un service d'internet parmi tant d'autre.
+	 *source :  https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/*
  - Qu'est que cela :
 	 - **8.8.8.8** :  DNS de google
 	 -  **192.168.0.1** :  Adresse IP du routeur FAI (box / modem)
 	 - **255.255.255.0** :  Masque de sous réseau
 	 - **127.0.0.1** :  Adresse IP pour l'interface logique d'un ordinateur local. (LocalHost)
+	 *source : https://fr.wikipedia.org*
  - Que sont le copyright et le copyleft ?
 	 - **Copyright** : Ensemble de lois en application dans les pays du Commonwealth et aux États-Unis dont dispose une personne physique ou morale sur une œuvre.
 	 - **Copyleft** : Autorisation donnée par l'auteur d'un travail soumis au droit d'auteur d'utiliser, d'étudier, de modifier et de diffuser sont œuvre dans la mesure où cette même autorisation reste préservée.
+	 *source : https://fr.wikipedia.org*
  - Que sont les Creatives Commons ?
-	 - **Creatives Commons** :  Organisation à but non lucratif qui à pour but de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l'ère numérique.  
+	 - **Creatives Commons** :  Organisation à but non lucratif qui à pour but de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l'ère numérique. 
+	  *source : http://creativecommons.fr/*
  - Qui est Grace Hopper ?
+	 - **Informaticienne américaine** et Lieutenant de la marine Américaine, **conceptrice du premier compilateur A-0 System**. en 1952 et à la base du  **langage COBOL** en 1959. Connu pour avoir rendu populaire le terme de "bug". 
+	 *Source: https://femherbier.hypotheses.org/* - *http://binaire.blog.lemonde.fr/*
  - Qu'est ce que Qwant ?
+	 - **Moteur de recherche français** créer en 2013. 
+	 *source: https://fr.wikipedia.org/wiki/Qwant*
  - Qui est Steve Wozniak ?
- - D'où vient l'expression "bug informatique"
+	 - **Co-fondateur de l'entreprise Apple**. Il fut le concveur des premiers ordinateur commercial de Apple, notamment Apple I, Apple II, Apple III ... *source :  https://www.lsa-conso.fr/annuaire-professionnels-grande-consommation/wozniak-steve/131706*
+ - D'où vient l'expression "bug informatique" ?
+	 - **Expression écrite par Grace Hopper** dans son journal suite à **l'intrusion d'un insecte** (bug en anglais) qui aurait causé un **court circuit dans l'ordinateur**.
+	 *source:  https://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/*
  - Quels sont les communautés de développeur à Toulouse et quels sont leurs prochains évènements ?
+	 - 
  - Quels sont les prochains rendez-vous tech à Toulouse ?
  - Qui est Aaron Swartz ?
  - Qu'est ce que le projet GNU ?
